@@ -27,4 +27,5 @@
   ## Media
   ![Tech-Blog](./assets/images/Home.png)
   ![Tech-Blog](./assets/images/Dashboard.png)
+  ![Tech-Blog](./assets/images/Comment.png)
   ![napitt2393/Tech-Blog](https://github.com/natpitt2393/Tech-Blog)
